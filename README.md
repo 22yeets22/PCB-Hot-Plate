@@ -18,11 +18,11 @@ A 140W universal USB-C powered PCB Hot Plate!
 
 ## Description
 
-A 140W USB-C powered PCB hot plate
+A 140W USB-C-powered PCB hot plate for precise heating, such as for solder reflow. It uses a USB-C power input for accessibility and uses an aluminium PCB heating element driven a switching MOSFET, along with thermistors to monitor temperature, USB-C negotiation, and real-time current/voltage monitoring.
 
 ## Motivation
 
-My motivation for this project was to create a low-cost, customizable, fully controllable PCB hotplate for electronics work like soldering or heating stuff up. I thought that other hotplates online were very expensive and lacked the power I wanted. By designing a custom solution, I made a new hot plate capable of higher wattage (140W) and better flexibility.
+My motivation for this project was to create a low-cost, customizable, fully controllable PCB hotplate for electronics work, like soldering or heating stuff up. I thought that other hotplates online were very expensive and lacked the power I wanted. By designing a custom solution, I made a new hot plate capable of higher wattage (140W) and better flexibility.
 
 ## Features
 
